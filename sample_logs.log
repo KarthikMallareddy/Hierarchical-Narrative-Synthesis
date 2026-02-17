@@ -1,0 +1,4 @@
+[LOG] 2026-02-17 01:00:00 - Server 01 - INFO - Periodic backup completed successfully.
+[LOG] 2026-02-17 01:15:00 - Server 02 - ERROR - Database connection timeout. Retrying in 5s.
+[LOG] 2026-02-17 01:15:05 - Server 02 - INFO - Database connection established.
+[LOG] 2026-02-17 01:30:00 - Security - WARN - Unusual login attempt from IP 192.168.1.55.
