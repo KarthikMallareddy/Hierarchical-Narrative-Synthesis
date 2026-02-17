@@ -1,0 +1,10 @@
+# LLM Provider Configuration
+# Options: "openai" or "huggingface"
+LLM_PROVIDER=huggingface
+
+# API Keys
+# OPENAI_API_KEY= (Removed)
+HUGGINGFACE_API_KEY=hf_INSERT_YOUR_KEY_HERE
+
+# Model Selection (VERIFIED WORKING: mistralai/Mistral-7B-Instruct-v0.2)
+HUGGINGFACE_MODEL=mistralai/Mistral-7B-Instruct-v0.2

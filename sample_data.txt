@@ -1,0 +1,13 @@
+[LOG] 2026-02-17 01:00:00 - Server 01 - Metrics OK - CPU Load 45%
+[LOG] 2026-02-17 01:05:00 - Server 02 - WARNING - Latency Spike detected - 500ms
+[LOG] 2026-02-17 01:10:00 - Server 01 - Metrics OK - CPU Load 42%
+[LOG] 2026-02-17 01:15:00 - Server 02 - CRITICAL - Failed to connect to DB - Timeout
+[LOG] 2026-02-17 01:20:00 - Server 01 - Metrics OK - CPU Load 40%
+[LOG] 2026-02-17 01:25:00 - Server 02 - RECOVERED - Connection restored
+
+[REPORT] Financial Summary Q1 2026
+Revenue: $15M (+10% YoY)
+Operating Costs: $9M (+5% YoY)
+Profit: $6M (+20% YoY)
+Analysis: Strong growth in software subscriptions drove revenue. Costs increased due to R&D investment.
+Outlook: Optimistic for Q2.
