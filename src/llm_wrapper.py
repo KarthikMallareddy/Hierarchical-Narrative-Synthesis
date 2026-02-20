@@ -52,26 +52,19 @@ class LLMProvider:
             from huggingface_hub import InferenceClient
             client = InferenceClient(api_key=self.api_key)
             
-            # Define messages for Chat API
             messages = [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": prompt}
+                {"role": "user", "content": f"{system_prompt}\n\n{prompt}"}
             ]
 
-            # Try Chat Completion first (Preferred)
-            try:
-                response = client.chat.completions.create(
-                    model=self.model_name, 
-                    messages=messages, 
-                    max_tokens=1024,
-                    temperature=0.7
-                )
-                return response.choices[0].message.content
-            except Exception as chat_error:
-                # Fallback to Text Generation if Chat API is not supported for this model
-                print(f"DEBUG: Chat API failed ({chat_error}), switching to Text Generation...")
-                formatted_prompt = f"<s>[INST] {system_prompt}\n\n{prompt} [/INST]"
-                return client.text_generation(formatted_prompt, model=self.model_name, max_new_tokens=1024)
+            response = client.chat.completions.create(
+                model=self.model_name, 
+                messages=messages, 
+                max_tokens=1024,
+                temperature=0.7
+            )
+            return response.choices[0].message.content
             
         except Exception as e:
             return f"HuggingFace Client Error: {str(e)}"
+
+
