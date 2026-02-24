@@ -1,0 +1,44 @@
+**CONFIDENTIAL MEDICAL REPORT**
+
+Patient ID: MR-2026-001847
+Date: February 15, 2026
+Physician: Dr. Sarah Chen, MD
+Department: Cardiology, General Hospital
+
+**PATIENT SUMMARY:**
+John Patterson, 58-year-old male presenting with chest pain and shortness of breath during physical activity. Patient has a history of hypertension and type 2 diabetes.
+
+**CLINICAL FINDINGS:**
+- Blood Pressure: 145/92 mmHg (elevated)
+- Heart Rate: 78 bpm (normal)
+- ECG: Shows mild ST-segment changes consistent with ischemia
+- Echocardiogram: Left ventricular ejection fraction 52% (mildly reduced)
+- Troponin I: 0.08ng/mL (slightly elevated, reference <0.04)
+
+**LABORATORY RESULTS:**
+- Total Cholesterol: 245 mg/dL (High)
+- LDL: 165 mg/dL (High)
+- HDL: 38 mg/dL (Low)
+- HbA1c: 7.8% (Diabetic range)
+- Creatinine: 1.2 mg/dL (Normal)
+
+**DIAGNOSTIC IMPRESSION:**
+1. Unstable angina pectoris
+2. Dyslipidemia  
+3. Poorly controlled diabetes mellitus type 2
+4. Hypertension
+
+**TREATMENT PLAN:**
+- Initiate dual antiplatelet therapy (Aspirin 81mg + Clopidogrel 75mg daily)
+- Statin therapy: Atorvastatin 40mg daily
+- ACE inhibitor: Lisinopril 10mg daily
+- Diabetes management: Increase Metformin to 1000mg twice daily
+- Lifestyle modifications: cardiac diet, exercise program
+- Follow-up appointment in 2 weeks
+- Stress test scheduled for March 1, 2026
+
+**RISK ASSESSMENT:**
+Moderate cardiovascular risk. Patient education provided on warning signs of myocardial infarction. Emergency contact information given.
+
+Dr. Sarah Chen, MD
+Cardiology Department

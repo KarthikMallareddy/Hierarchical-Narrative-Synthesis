@@ -1,0 +1,63 @@
+**QUARTERLY BUSINESS REVIEW MEETING TRANSCRIPT**
+Date: February 20, 2026
+Time: 2:00 PM - 3:15 PM PST
+Meeting ID: QBR-Q1-2026-001
+
+**Attendees:**
+- Sarah Mitchell (CEO)
+- James Rodriguez (CTO) 
+- Lisa Chen (CFO)
+- Michael Park (VP Sales)
+- Emma Watson (VP Marketing)
+- David Kim (Head of Product)
+
+**Sarah Mitchell:** Alright everyone, let's get started with our Q1 review. I know we're all eager to see how we performed. Lisa, want to kick us off with the financials?
+
+**Lisa Chen:** Absolutely. I'm happy to report we exceeded our Q1 targets. Revenue came in at $47.2 million, which is 12% above our forecast of $42.1 million. Our gross margin improved to 73%, up from 69% last quarter, primarily due to the optimization work David's team did on our core platform.
+
+**Michael Park:** That's fantastic news, Lisa. From a sales perspective, we closed 89 new enterprise deals this quarter, with an average contract value of $340K. Our pipeline for Q2 is looking strong at $78 million.
+
+**Emma Watson:** The marketing team contributed significantly to that pipeline growth. Our digital campaign performance improved by 34% quarter-over-quarter. The new AI-powered targeting we implemented is really paying off. We're seeing much higher quality leads.
+
+**James Rodriguez:** On the tech side, I want to highlight our infrastructure improvements. We reduced system downtime by 67% and improved API response times by 40%. The team worked around the clock to implement the new microservices architecture.
+
+**David Kim:** Thanks James. Product-wise, we shipped 23 new features this quarter, including the highly requested document collaboration tools. Customer satisfaction scores are at an all-time high of 4.7 out of 5. However, we did identify some performance issues with the mobile app that we're prioritizing for Q2.
+
+**Sarah Mitchell:** These are impressive numbers across the board. What challenges are we facing going into Q2?
+
+**Lisa Chen:** The main concern is our customer acquisition cost, which increased by 18% this quarter. We need to monitor this closely to ensure our unit economics remain healthy.
+
+**Michael Park:** I agree with Lisa. We're also seeing increased competition, particularly from TechCorp's new platform. They're pricing aggressively, and we've lost two major deals to them already.
+
+**Emma Watson:** That's why I'm proposing we accelerate our brand differentiation campaign. We need to better communicate our unique value proposition, especially around security and compliance features.
+
+**James Rodriguez:** From a technical standpoint, we need to invest more in our data infrastructure. As we scale, our current systems won't be able to handle the load. I'm requesting additional budget for cloud infrastructure.
+
+**David Kim:** I second that. We also need more engineering resources for the mobile experience improvements. Users increasingly expect mobile-first functionality.
+
+**Sarah Mitchell:** Okay, let me summarize our action items for Q2:
+1. Lisa will work with finance to optimize customer acquisition costs
+2. Michael and Emma will develop a competitive response strategy for TechCorp
+3. James gets additional cloud infrastructure budget - we'll discuss the amount offline
+4. David will hire two additional mobile developers
+5. Emma moves forward with the brand differentiation campaign
+
+**Lisa Chen:** One more item - we should consider raising our Series C funding round earlier than planned. With this growth trajectory, we could potentially raise at a higher valuation.
+
+**Sarah Mitchell:** Good point. Let's schedule a separate discussion about that next week. Any other urgent items?
+
+**James Rodriguez:** Just a heads up - we're planning a planned maintenance window on March 15th for the infrastructure upgrades. It'll be a 4-hour window during off-peak hours.
+
+**Michael Park:** I'll make sure the customer success team is prepared to communicate that to our enterprise clients.
+
+**Sarah Mitchell:** Perfect. Great work everyone. These results demonstrate that our strategy is working. Let's keep the momentum going into Q2. Meeting adjourned.
+
+**Meeting End Time:** 3:15 PM PST
+
+**Post-Meeting Notes:**
+- Q1 revenue: $47.2M (12% above target)
+- 89 new enterprise deals closed
+- Customer satisfaction: 4.7/5.0
+- Infrastructure improvements: 67% reduction in downtime
+- Action items assigned to each department head
+- Series C funding discussion scheduled for February 27th

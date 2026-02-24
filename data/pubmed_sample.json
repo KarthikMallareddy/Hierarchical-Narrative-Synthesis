@@ -1,0 +1,2102 @@
+[
+  {
+    "pmid": "PMC1000000",
+    "title": "Clinical Study 1",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000001",
+    "title": "Clinical Study 2",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000002",
+    "title": "Clinical Study 3",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000003",
+    "title": "Clinical Study 4",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000004",
+    "title": "Clinical Study 5",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000005",
+    "title": "Clinical Study 6",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000006",
+    "title": "Clinical Study 7",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000007",
+    "title": "Clinical Study 8",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000008",
+    "title": "Clinical Study 9",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000009",
+    "title": "Clinical Study 10",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000010",
+    "title": "Clinical Study 11",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000011",
+    "title": "Clinical Study 12",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000012",
+    "title": "Clinical Study 13",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000013",
+    "title": "Clinical Study 14",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000014",
+    "title": "Clinical Study 15",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000015",
+    "title": "Clinical Study 16",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000016",
+    "title": "Clinical Study 17",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000017",
+    "title": "Clinical Study 18",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000018",
+    "title": "Clinical Study 19",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000019",
+    "title": "Clinical Study 20",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000020",
+    "title": "Clinical Study 21",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000021",
+    "title": "Clinical Study 22",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000022",
+    "title": "Clinical Study 23",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000023",
+    "title": "Clinical Study 24",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000024",
+    "title": "Clinical Study 25",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000025",
+    "title": "Clinical Study 26",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000026",
+    "title": "Clinical Study 27",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000027",
+    "title": "Clinical Study 28",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000028",
+    "title": "Clinical Study 29",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000029",
+    "title": "Clinical Study 30",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000030",
+    "title": "Clinical Study 31",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000031",
+    "title": "Clinical Study 32",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000032",
+    "title": "Clinical Study 33",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000033",
+    "title": "Clinical Study 34",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000034",
+    "title": "Clinical Study 35",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000035",
+    "title": "Clinical Study 36",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000036",
+    "title": "Clinical Study 37",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000037",
+    "title": "Clinical Study 38",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000038",
+    "title": "Clinical Study 39",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000039",
+    "title": "Clinical Study 40",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000040",
+    "title": "Clinical Study 41",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000041",
+    "title": "Clinical Study 42",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000042",
+    "title": "Clinical Study 43",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000043",
+    "title": "Clinical Study 44",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000044",
+    "title": "Clinical Study 45",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000045",
+    "title": "Clinical Study 46",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000046",
+    "title": "Clinical Study 47",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000047",
+    "title": "Clinical Study 48",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000048",
+    "title": "Clinical Study 49",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000049",
+    "title": "Clinical Study 50",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000050",
+    "title": "Clinical Study 51",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000051",
+    "title": "Clinical Study 52",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000052",
+    "title": "Clinical Study 53",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000053",
+    "title": "Clinical Study 54",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000054",
+    "title": "Clinical Study 55",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000055",
+    "title": "Clinical Study 56",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000056",
+    "title": "Clinical Study 57",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000057",
+    "title": "Clinical Study 58",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000058",
+    "title": "Clinical Study 59",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000059",
+    "title": "Clinical Study 60",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000060",
+    "title": "Clinical Study 61",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000061",
+    "title": "Clinical Study 62",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000062",
+    "title": "Clinical Study 63",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000063",
+    "title": "Clinical Study 64",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000064",
+    "title": "Clinical Study 65",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000065",
+    "title": "Clinical Study 66",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000066",
+    "title": "Clinical Study 67",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000067",
+    "title": "Clinical Study 68",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000068",
+    "title": "Clinical Study 69",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000069",
+    "title": "Clinical Study 70",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000070",
+    "title": "Clinical Study 71",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000071",
+    "title": "Clinical Study 72",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000072",
+    "title": "Clinical Study 73",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000073",
+    "title": "Clinical Study 74",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000074",
+    "title": "Clinical Study 75",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000075",
+    "title": "Clinical Study 76",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000076",
+    "title": "Clinical Study 77",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000077",
+    "title": "Clinical Study 78",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000078",
+    "title": "Clinical Study 79",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000079",
+    "title": "Clinical Study 80",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000080",
+    "title": "Clinical Study 81",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000081",
+    "title": "Clinical Study 82",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000082",
+    "title": "Clinical Study 83",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000083",
+    "title": "Clinical Study 84",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000084",
+    "title": "Clinical Study 85",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000085",
+    "title": "Clinical Study 86",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000086",
+    "title": "Clinical Study 87",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000087",
+    "title": "Clinical Study 88",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000088",
+    "title": "Clinical Study 89",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000089",
+    "title": "Clinical Study 90",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000090",
+    "title": "Clinical Study 91",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000091",
+    "title": "Clinical Study 92",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000092",
+    "title": "Clinical Study 93",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000093",
+    "title": "Clinical Study 94",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000094",
+    "title": "Clinical Study 95",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000095",
+    "title": "Clinical Study 96",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000096",
+    "title": "Clinical Study 97",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000097",
+    "title": "Clinical Study 98",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000098",
+    "title": "Clinical Study 99",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000099",
+    "title": "Clinical Study 100",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000100",
+    "title": "Clinical Study 101",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000101",
+    "title": "Clinical Study 102",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000102",
+    "title": "Clinical Study 103",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000103",
+    "title": "Clinical Study 104",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000104",
+    "title": "Clinical Study 105",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000105",
+    "title": "Clinical Study 106",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000106",
+    "title": "Clinical Study 107",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000107",
+    "title": "Clinical Study 108",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000108",
+    "title": "Clinical Study 109",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000109",
+    "title": "Clinical Study 110",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000110",
+    "title": "Clinical Study 111",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000111",
+    "title": "Clinical Study 112",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000112",
+    "title": "Clinical Study 113",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000113",
+    "title": "Clinical Study 114",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000114",
+    "title": "Clinical Study 115",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000115",
+    "title": "Clinical Study 116",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000116",
+    "title": "Clinical Study 117",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000117",
+    "title": "Clinical Study 118",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000118",
+    "title": "Clinical Study 119",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000119",
+    "title": "Clinical Study 120",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000120",
+    "title": "Clinical Study 121",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000121",
+    "title": "Clinical Study 122",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000122",
+    "title": "Clinical Study 123",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000123",
+    "title": "Clinical Study 124",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000124",
+    "title": "Clinical Study 125",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000125",
+    "title": "Clinical Study 126",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000126",
+    "title": "Clinical Study 127",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000127",
+    "title": "Clinical Study 128",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000128",
+    "title": "Clinical Study 129",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000129",
+    "title": "Clinical Study 130",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000130",
+    "title": "Clinical Study 131",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000131",
+    "title": "Clinical Study 132",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000132",
+    "title": "Clinical Study 133",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000133",
+    "title": "Clinical Study 134",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000134",
+    "title": "Clinical Study 135",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000135",
+    "title": "Clinical Study 136",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000136",
+    "title": "Clinical Study 137",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000137",
+    "title": "Clinical Study 138",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000138",
+    "title": "Clinical Study 139",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000139",
+    "title": "Clinical Study 140",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000140",
+    "title": "Clinical Study 141",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000141",
+    "title": "Clinical Study 142",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000142",
+    "title": "Clinical Study 143",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000143",
+    "title": "Clinical Study 144",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000144",
+    "title": "Clinical Study 145",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000145",
+    "title": "Clinical Study 146",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000146",
+    "title": "Clinical Study 147",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000147",
+    "title": "Clinical Study 148",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000148",
+    "title": "Clinical Study 149",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000149",
+    "title": "Clinical Study 150",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000150",
+    "title": "Clinical Study 151",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000151",
+    "title": "Clinical Study 152",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000152",
+    "title": "Clinical Study 153",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000153",
+    "title": "Clinical Study 154",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000154",
+    "title": "Clinical Study 155",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000155",
+    "title": "Clinical Study 156",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000156",
+    "title": "Clinical Study 157",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000157",
+    "title": "Clinical Study 158",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000158",
+    "title": "Clinical Study 159",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000159",
+    "title": "Clinical Study 160",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000160",
+    "title": "Clinical Study 161",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000161",
+    "title": "Clinical Study 162",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000162",
+    "title": "Clinical Study 163",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000163",
+    "title": "Clinical Study 164",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000164",
+    "title": "Clinical Study 165",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000165",
+    "title": "Clinical Study 166",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000166",
+    "title": "Clinical Study 167",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000167",
+    "title": "Clinical Study 168",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000168",
+    "title": "Clinical Study 169",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000169",
+    "title": "Clinical Study 170",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000170",
+    "title": "Clinical Study 171",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000171",
+    "title": "Clinical Study 172",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000172",
+    "title": "Clinical Study 173",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000173",
+    "title": "Clinical Study 174",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000174",
+    "title": "Clinical Study 175",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000175",
+    "title": "Clinical Study 176",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000176",
+    "title": "Clinical Study 177",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000177",
+    "title": "Clinical Study 178",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000178",
+    "title": "Clinical Study 179",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000179",
+    "title": "Clinical Study 180",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000180",
+    "title": "Clinical Study 181",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000181",
+    "title": "Clinical Study 182",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000182",
+    "title": "Clinical Study 183",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000183",
+    "title": "Clinical Study 184",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000184",
+    "title": "Clinical Study 185",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000185",
+    "title": "Clinical Study 186",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000186",
+    "title": "Clinical Study 187",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000187",
+    "title": "Clinical Study 188",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000188",
+    "title": "Clinical Study 189",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000189",
+    "title": "Clinical Study 190",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000190",
+    "title": "Clinical Study 191",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000191",
+    "title": "Clinical Study 192",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000192",
+    "title": "Clinical Study 193",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000193",
+    "title": "Clinical Study 194",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000194",
+    "title": "Clinical Study 195",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000195",
+    "title": "Clinical Study 196",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000196",
+    "title": "Clinical Study 197",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000197",
+    "title": "Clinical Study 198",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000198",
+    "title": "Clinical Study 199",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000199",
+    "title": "Clinical Study 200",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000200",
+    "title": "Clinical Study 201",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000201",
+    "title": "Clinical Study 202",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000202",
+    "title": "Clinical Study 203",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000203",
+    "title": "Clinical Study 204",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000204",
+    "title": "Clinical Study 205",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000205",
+    "title": "Clinical Study 206",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000206",
+    "title": "Clinical Study 207",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000207",
+    "title": "Clinical Study 208",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000208",
+    "title": "Clinical Study 209",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000209",
+    "title": "Clinical Study 210",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000210",
+    "title": "Clinical Study 211",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000211",
+    "title": "Clinical Study 212",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000212",
+    "title": "Clinical Study 213",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000213",
+    "title": "Clinical Study 214",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000214",
+    "title": "Clinical Study 215",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000215",
+    "title": "Clinical Study 216",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000216",
+    "title": "Clinical Study 217",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000217",
+    "title": "Clinical Study 218",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000218",
+    "title": "Clinical Study 219",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000219",
+    "title": "Clinical Study 220",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000220",
+    "title": "Clinical Study 221",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000221",
+    "title": "Clinical Study 222",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000222",
+    "title": "Clinical Study 223",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000223",
+    "title": "Clinical Study 224",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000224",
+    "title": "Clinical Study 225",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000225",
+    "title": "Clinical Study 226",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000226",
+    "title": "Clinical Study 227",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000227",
+    "title": "Clinical Study 228",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000228",
+    "title": "Clinical Study 229",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000229",
+    "title": "Clinical Study 230",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000230",
+    "title": "Clinical Study 231",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000231",
+    "title": "Clinical Study 232",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000232",
+    "title": "Clinical Study 233",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000233",
+    "title": "Clinical Study 234",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000234",
+    "title": "Clinical Study 235",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000235",
+    "title": "Clinical Study 236",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000236",
+    "title": "Clinical Study 237",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000237",
+    "title": "Clinical Study 238",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000238",
+    "title": "Clinical Study 239",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000239",
+    "title": "Clinical Study 240",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000240",
+    "title": "Clinical Study 241",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000241",
+    "title": "Clinical Study 242",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000242",
+    "title": "Clinical Study 243",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000243",
+    "title": "Clinical Study 244",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000244",
+    "title": "Clinical Study 245",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000245",
+    "title": "Clinical Study 246",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000246",
+    "title": "Clinical Study 247",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000247",
+    "title": "Clinical Study 248",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000248",
+    "title": "Clinical Study 249",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000249",
+    "title": "Clinical Study 250",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000250",
+    "title": "Clinical Study 251",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000251",
+    "title": "Clinical Study 252",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000252",
+    "title": "Clinical Study 253",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000253",
+    "title": "Clinical Study 254",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000254",
+    "title": "Clinical Study 255",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000255",
+    "title": "Clinical Study 256",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000256",
+    "title": "Clinical Study 257",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000257",
+    "title": "Clinical Study 258",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000258",
+    "title": "Clinical Study 259",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000259",
+    "title": "Clinical Study 260",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000260",
+    "title": "Clinical Study 261",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000261",
+    "title": "Clinical Study 262",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000262",
+    "title": "Clinical Study 263",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000263",
+    "title": "Clinical Study 264",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000264",
+    "title": "Clinical Study 265",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000265",
+    "title": "Clinical Study 266",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000266",
+    "title": "Clinical Study 267",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000267",
+    "title": "Clinical Study 268",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000268",
+    "title": "Clinical Study 269",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000269",
+    "title": "Clinical Study 270",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000270",
+    "title": "Clinical Study 271",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000271",
+    "title": "Clinical Study 272",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000272",
+    "title": "Clinical Study 273",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000273",
+    "title": "Clinical Study 274",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000274",
+    "title": "Clinical Study 275",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000275",
+    "title": "Clinical Study 276",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000276",
+    "title": "Clinical Study 277",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000277",
+    "title": "Clinical Study 278",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000278",
+    "title": "Clinical Study 279",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000279",
+    "title": "Clinical Study 280",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000280",
+    "title": "Clinical Study 281",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000281",
+    "title": "Clinical Study 282",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000282",
+    "title": "Clinical Study 283",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000283",
+    "title": "Clinical Study 284",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000284",
+    "title": "Clinical Study 285",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000285",
+    "title": "Clinical Study 286",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000286",
+    "title": "Clinical Study 287",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000287",
+    "title": "Clinical Study 288",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000288",
+    "title": "Clinical Study 289",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000289",
+    "title": "Clinical Study 290",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000290",
+    "title": "Clinical Study 291",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000291",
+    "title": "Clinical Study 292",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000292",
+    "title": "Clinical Study 293",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000293",
+    "title": "Clinical Study 294",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000294",
+    "title": "Clinical Study 295",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000295",
+    "title": "Clinical Study 296",
+    "abstract": "Background: Cardiovascular disease remains a leading cause of mortality worldwide. Methods: We conducted a randomized controlled trial with 1,200 patients. Results: Treatment group showed 25% reduction in adverse events.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000296",
+    "title": "Clinical Study 297",
+    "abstract": "Objective: To evaluate the efficacy of novel immunotherapy approaches in cancer treatment. Study Design: Meta-analysis of 45 clinical trials. Conclusions: Immunotherapy demonstrates significant survival benefits.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000297",
+    "title": "Clinical Study 298",
+    "abstract": "Introduction: Neurodegenerative disorders present complex diagnostic challenges. Methodology: Longitudinal cohort study over 10 years. Findings: Early biomarkers show 85% predictive accuracy.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000298",
+    "title": "Clinical Study 299",
+    "abstract": "Purpose: Investigate pharmacological interventions for diabetes management. Approach: Systematic review and network meta-analysis. Outcomes: New drug combinations reduce HbA1c by 1.2%.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  },
+  {
+    "pmid": "PMC1000299",
+    "title": "Clinical Study 300",
+    "abstract": "Rationale: Understanding genetic factors in rare diseases. Design: Genome-wide association study with 5,000 participants. Results: Identified 12 novel genetic variants.",
+    "authors": "Smith J, Johnson A, Brown K",
+    "journal": "Medical Journal Example"
+  }
+]

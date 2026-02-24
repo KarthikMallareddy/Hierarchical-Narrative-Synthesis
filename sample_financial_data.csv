@@ -1,0 +1,32 @@
+Quarter,Revenue_Million_USD,Operating_Expenses_Million_USD,Net_Income_Million_USD,Region,Product_Line,Growth_Rate_Percent
+Q1_2025,125.3,89.7,35.6,North_America,AI_Software,15.2
+Q1_2025,87.4,62.1,25.3,Europe,Cloud_Services,22.8
+Q1_2025,156.8,112.4,44.4,Asia_Pacific,Mobile_Apps,18.7
+Q1_2025,45.7,38.9,6.8,Latin_America,Data_Analytics,8.3
+Q2_2025,142.7,95.2,47.5,North_America,AI_Software,13.8
+Q2_2025,94.6,65.8,28.8,Europe,Cloud_Services,8.2
+Q2_2025,168.9,118.7,50.2,Asia_Pacific,Mobile_Apps,7.7
+Q2_2025,52.3,41.2,11.1,Latin_America,Data_Analytics,14.4
+Q3_2025,158.4,101.3,57.1,North_America,AI_Software,11.0
+Q3_2025,109.8,72.4,37.4,Europe,Cloud_Services,16.1
+Q3_2025,187.2,125.9,61.3,Asia_Pacific,Mobile_Apps,10.8
+Q3_2025,61.7,45.8,15.9,Latin_America,Data_Analytics,18.0
+Q4_2025,172.9,108.6,64.3,North_America,AI_Software,9.2
+Q4_2025,118.5,78.1,40.4,Europe,Cloud_Services,7.9
+Q4_2025,203.6,132.7,70.9,Asia_Pacific,Mobile_Apps,8.8
+Q4_2025,68.2,49.3,18.9,Latin_America,Data_Analytics,10.5
+Q1_2026,189.7,115.2,74.5,North_America,AI_Software,9.7
+Q1_2026,128.4,82.8,45.6,Europe,Cloud_Services,8.2
+Q1_2026,221.1,142.3,78.8,Asia_Pacific,Mobile_Apps,9.0
+
+Financial_Notes:
+- AI Software showing consistent growth across all regions
+- Asia Pacific remains strongest market with highest revenue
+- Cloud Services experiencing seasonal fluctuations
+- Mobile Apps maintaining steady performance
+- Data Analytics showing strong growth potential in Q4 2025
+- Overall company performance exceeding analyst expectations
+- Currency exchange rates favorable in European markets
+- Investment in R&D increased by 25% in Q4 2025
+- Market share gained in competitive AI software segment
+- Executive bonus targets achieved for consecutive quarters

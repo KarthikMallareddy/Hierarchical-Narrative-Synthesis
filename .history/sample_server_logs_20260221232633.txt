@@ -1,0 +1,32 @@
+2026-02-21 08:15:23 INFO [WebServer] Starting application server on port 8080
+2026-02-21 08:15:24 INFO [Database] Connection pool initialized: max_connections=50
+2026-02-21 08:15:25 INFO [Auth] JWT authentication module loaded successfully
+2026-02-21 08:16:12 INFO [API] GET /api/users/profile user_id=12847 response_time=145ms status=200
+2026-02-21 08:16:45 INFO [API] POST /api/documents/upload user_id=12847 file_size=2.4MB status=201
+2026-02-21 08:17:02 WARN [Memory] Heap usage at 78% - potential memory leak detected
+2026-02-21 08:17:18 INFO [Processing] Document analysis started: doc_id=89432 user_id=12847
+2026-02-21 08:17:22 ERROR [Database] Connection timeout: host=db-primary-001.internal timeout=5000ms
+2026-02-21 08:17:22 INFO [Database] Failover to secondary database: db-secondary-001.internal
+2026-02-21 08:17:25 INFO [Processing] ML model inference completed: doc_id=89432 confidence=0.94 duration=7.2s
+2026-02-21 08:17:26 INFO [API] GET /api/documents/89432/results user_id=12847 response_time=89ms status=200
+2026-02-21 08:18:45 WARN [Security] Multiple failed login attempts: ip=192.168.1.45 user=admin attempts=5
+2026-02-21 08:18:46 INFO [Security] IP address blocked: 192.168.1.45 duration=300s reason=brute_force
+2026-02-21 08:19:12 INFO [API] POST /api/feedback user_id=12847 rating=5 status=201
+2026-02-21 08:19:33 ERROR [External] API call failed: service=third_party_nlp error=rate_limit_exceeded
+2026-02-21 08:19:35 INFO [External] Retrying API call with exponential backoff: attempt=2/3
+2026-02-21 08:19:58 INFO [External] API call successful: service=third_party_nlp response_time=23.1s
+2026-02-21 08:20:15 INFO [Processing] Batch job started: job_id=batch_2026_021_001 documents=127
+2026-02-21 08:21:05 WARN [Storage] Disk usage at 89% on volume /data - cleanup required
+2026-02-21 08:21:30 INFO [Cleanup] Automated cleanup started: removing files older than 30 days
+2026-02-21 08:22:18 INFO [Cleanup] Cleanup completed: deleted=45 files freed=2.1GB
+2026-02-21 08:23:44 INFO [API] WebSocket connection established: user_id=15632 session_id=ws_99847
+2026-02-21 08:24:12 INFO [Realtime] Document processing update sent: doc_id=89455 progress=65%
+2026-02-21 08:24:45 ERROR [Network] Upstream service unavailable: service=email_notifications code=503
+2026-02-21 08:24:46 WARN [Queue] Email notification queued for retry: notification_id=email_78432
+2026-02-21 08:25:33 INFO [Performance] Average response time: 142ms p95=245ms p99=890ms
+2026-02-21 08:26:01 INFO [Processing] Batch job progress: job_id=batch_2026_021_001 completed=89/127
+2026-02-21 08:27:15 INFO [Cache] Cache hit rate: 87.3% evictions=23 size=512MB
+2026-02-21 08:28:22 CRITICAL [Security] Potential SQL injection attempt detected: user_id=unknown ip=203.45.67.89
+2026-02-21 08:28:23 INFO [Security] Request blocked and logged: attack_vector=sql_injection
+2026-02-21 08:29:45 INFO [Processing] Batch job completed: job_id=batch_2026_021_001 total_time=9m30s success_rate=98.4%
+2026-02-21 08:30:12 INFO [Health] System health check: CPU=45% Memory=62% Disk=78% Status=HEALTHY
