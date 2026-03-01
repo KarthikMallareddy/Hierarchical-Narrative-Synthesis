@@ -151,6 +151,11 @@ def main():
         
         st.divider()
         st.header("📁 Upload Your Data")
+        
+        if st.button("🧹 Clear Session & Reset", use_container_width=True):
+            st.session_state.clear()
+            st.success("Session cleared! Please upload new files.")
+            
         uploaded_files = st.file_uploader(
             "Upload CSV, PDF, TXT, or LOG files",
             type=["csv", "pdf", "txt", "log"],
@@ -182,7 +187,8 @@ def main():
                     
                     # Step 1: Ingest
                     st.write("**Step 1:** Extracting text segments...")
-                    documents = process_uploaded_files(uploaded_files)
+                    extracted_data = process_uploaded_files(uploaded_files)
+                    documents = [d["content"] for d in extracted_data]
                     st.session_state.documents = documents
                     st.write(f"  → {len(documents)} segments extracted")
 
@@ -218,11 +224,20 @@ def main():
                     clusters = clusterer.predict(latent)
                     st.session_state.cluster_labels = clusters
 
+                    # Build metadata
+                    metadatas = []
+                    for i, d in enumerate(extracted_data):
+                        metadatas.append({
+                            "source_file": d["source_file"],
+                            "source_type": d["source_type"],
+                            "cluster": int(clusters[i])
+                        })
+
                     # Step 6: Store in Vector Store
                     st.write("**Step 6:** Building session knowledge repository...")
                     vector_store = VectorStore(dimension=embeddings.shape[1])
                     vector_store.reset()
-                    vector_store.add_documents(documents, embeddings)
+                    vector_store.add_documents(documents, embeddings, metadatas=metadatas)
                     st.session_state.vector_store = vector_store
 
                     # Show cluster distribution
@@ -246,7 +261,7 @@ def main():
                             auto_query, vector_store,
                             emb_model, dae, vae, clusterer
                         )
-                        context_docs = [doc for doc, score in results]
+                        context_docs = [doc.get("content", "") for doc in results]
 
                         # Run reasoning
                         reasoner = HierarchicalReasoner()
@@ -296,7 +311,7 @@ def main():
                     query, st.session_state.vector_store,
                     emb_model, dae, vae, clusterer
                 )
-                context_docs = [doc for doc, score in results]
+                context_docs = [doc.get("content", "") for doc in results]
 
                 # Hierarchical Reasoning
                 st.write("🧠 **Hierarchical Reasoning Pipeline**")
