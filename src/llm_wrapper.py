@@ -11,7 +11,8 @@ class LLMProvider:
     def __init__(self, provider="huggingface"):
         self.provider = provider
         self.api_key = os.getenv("HUGGINGFACE_API_KEY") if provider == "huggingface" else os.getenv("OPENAI_API_KEY")
-        self.model_name = os.getenv("HUGGINGFACE_MODEL", "mistralai/Mistral-7B-Instruct-v0.3")
+        # Defaulting to Qwen2.5-72B as it is confirmed working on HF serverless endpoints
+        self.model_name = os.getenv("HUGGINGFACE_MODEL", "Qwen/Qwen2.5-72B-Instruct")
         
         # DEBUG: Verify initialization
         key_status = "SET" if self.api_key else "MISSING"

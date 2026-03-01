@@ -627,7 +627,7 @@ Format as Markdown. Be specific and cite evidence.
 
 ```python
 class ContentGenerator:
-    def __init__(self, hf_token, model_name='mistralai/Mistral-7B-Instruct-v0.2'):
+    def __init__(self, hf_token, model_name='HuggingFaceH4/zephyr-7b-beta'):
         self.api_url = f"https://api-inference.huggingface.co/models/{model_name}"
         self.headers = {"Authorization": f"Bearer {hf_token}"}
     
@@ -1289,7 +1289,7 @@ print(report)
 
 ```
 HUGGINGFACE_API_KEY=hf_your_token_here
-HUGGINGFACE_MODEL=mistralai/Mistral-7B-Instruct-v0.2
+HUGGINGFACE_MODEL=HuggingFaceH4/zephyr-7b-beta
 LLM_PROVIDER=huggingface
 LLM_TEMPERATURE=0.7
 EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2

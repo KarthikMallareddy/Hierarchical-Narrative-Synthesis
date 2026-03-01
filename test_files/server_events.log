@@ -1,0 +1,5 @@
+2023-09-01 10:00:01 INFO [main] Server started on port 8080
+2023-09-01 10:05:12 WARN [db] Connection pool reaching limit
+2023-09-01 10:45:33 ERROR [api] Timeout while fetching user data
+2023-09-01 11:12:00 INFO [main] Memory utilization at 45%
+2023-09-02 08:30:15 ERROR [db] Connection lost. Retrying...

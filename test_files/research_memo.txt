@@ -1,0 +1,3 @@
+Internal Memo: Next-Gen Architecture Plan
+
+We are planning to transition our backend to a serverless architecture to reduce platform costs. Initial tests show a 30% reduction in latency for API requests, although resolving database connection limits remains a priority. Expected completion for Phase 1 is Q4 2023.

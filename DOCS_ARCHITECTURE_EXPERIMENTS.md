@@ -101,7 +101,7 @@ Here are the specific names of the technologies, models, and layers used in our 
 *   **Robustness Layer**: **Denoising Autoencoder (DAE)** — Custom PyTorch implementation for noise reduction.
 *   **Manifold Learning**: **Variational Autoencoder (VAE)** — Probabilistic compression to a 64-dimensional latent space.
 *   **Structural Discovery**: **K-Means Clustering** — Unsupervised grouping of data into semantic "Topic Concept" clusters.
-*   **Synthesis Engine**: `Mistral-7B-Instruct-v0.2` — The Large Language Model (LLM) used for generating the final narrative.
+*   **Synthesis Engine**: `HuggingFaceH4/zephyr-7b-beta` — The Large Language Model (LLM) used for generating the final narrative.
 
 ### 3.2 Core Engineering Stack
 *   **Framework**: `PyTorch` — For building and training the DAE and VAE neural networks.
