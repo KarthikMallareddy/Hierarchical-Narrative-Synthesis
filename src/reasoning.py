@@ -72,17 +72,20 @@ class HierarchicalReasoner:
         
         # Re-rank: boost same-cluster results
         scored_results = []
-        for i, (doc, dist) in enumerate(raw_results):
+        for doc_meta in raw_results:
+            dist = doc_meta.get("distance", 0.0)
             cluster_boost = 0.0
-            if all_clusters is not None and i < len(all_clusters):
-                if all_clusters[i] == query_cluster:
-                    cluster_boost = -0.3  # Lower distance = higher priority
+            
+            # Check if document belongs to the same cluster as the query
+            if "cluster" in doc_meta and doc_meta["cluster"] == query_cluster:
+                cluster_boost = -0.3  # Lower distance = higher priority
             
             adjusted_score = dist + cluster_boost
-            scored_results.append((doc, adjusted_score))
+            doc_meta["score"] = adjusted_score
+            scored_results.append(doc_meta)
         
         # Sort by adjusted score (lower is better)
-        scored_results.sort(key=lambda x: x[1])
+        scored_results.sort(key=lambda x: x["score"])
         return scored_results[:n_results]
 
     # =========================================================
@@ -91,7 +94,7 @@ class HierarchicalReasoner:
     def link_evidence(self, retrieved_docs):
         """
         Build cross-source relationships between retrieved documents.
-        Groups documents by source type and identifies connections.
+        Groups documents by source type using metadata.
         """
         evidence_map = {
             "csv_data": [],
@@ -100,16 +103,16 @@ class HierarchicalReasoner:
             "text_docs": [],
         }
         
-        for doc, score in retrieved_docs:
-            doc_lower = doc.lower()
-            if any(kw in doc_lower for kw in ['revenue', 'profit', 'cost', 'quarter', '$', 'record']):
-                evidence_map["csv_data"].append({"content": doc, "score": score})
-            elif any(kw in doc_lower for kw in ['log', 'error', 'warn', 'info', 'server']):
-                evidence_map["log_entries"].append({"content": doc, "score": score})
-            elif any(kw in doc_lower for kw in ['abstract', 'research', 'study', 'paper']):
-                evidence_map["pdf_docs"].append({"content": doc, "score": score})
+        for doc_meta in retrieved_docs:
+            source_type = doc_meta.get("source_type", "txt").lower()
+            if source_type == "csv":
+                evidence_map["csv_data"].append(doc_meta)
+            elif source_type == "log":
+                evidence_map["log_entries"].append(doc_meta)
+            elif source_type == "pdf":
+                evidence_map["pdf_docs"].append(doc_meta)
             else:
-                evidence_map["text_docs"].append({"content": doc, "score": score})
+                evidence_map["text_docs"].append(doc_meta)
         
         # Remove empty categories
         evidence_map = {k: v for k, v in evidence_map.items() if v}
@@ -132,15 +135,15 @@ class HierarchicalReasoner:
             "cross_source": False,
         }
         
-        source_types = list(evidence_map.keys())
-        validation_result["source_count"] = len(source_types)
-        validation_result["cross_source"] = len(source_types) > 1
+        source_categories = list(evidence_map.keys())
+        validation_result["source_count"] = len(source_categories)
+        validation_result["cross_source"] = len(source_categories) > 1
         
         # Collect all evidence
         all_evidence = []
-        for source_type, docs in evidence_map.items():
+        for source_category, docs in evidence_map.items():
             for doc in docs:
-                doc["source_type"] = source_type
+                doc["source_category"] = source_category
                 all_evidence.append(doc)
         
         # Simple conflict detection: check if any docs contradict each other

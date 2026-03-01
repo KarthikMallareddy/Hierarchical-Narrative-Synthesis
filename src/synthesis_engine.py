@@ -82,8 +82,9 @@ class VectorStore:
         retrieved_results = []
         for dist, idx in zip(D[0], I[0]):
             if idx != -1 and idx < len(self.metadatas):
-                content = self.metadatas[idx].get("content", "")
-                retrieved_results.append((content, float(dist)))
+                meta = self.metadatas[idx].copy()
+                meta["distance"] = float(dist)
+                retrieved_results.append(meta)
 
         return retrieved_results
 
