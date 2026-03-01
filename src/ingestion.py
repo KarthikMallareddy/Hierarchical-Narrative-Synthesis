@@ -52,16 +52,29 @@ def process_uploaded_files(uploaded_files):
     """
     Process a list of Streamlit uploaded files into text segments.
     Each file is ingested and chunked into ~200-word segments.
-    Returns a flat list of text segments ready for embedding.
+    Returns a list of dictionaries containing text segments and metadata.
     """
     all_segments = []
     for f in uploaded_files:
         raw_text = ingest_file(f)
+        filename = f.name.lower()
+        source_type = "txt"
+        if filename.endswith(".csv"):
+            source_type = "csv"
+        elif filename.endswith(".pdf"):
+            source_type = "pdf"
+        elif filename.endswith(".log"):
+            source_type = "log"
+
         if raw_text and not raw_text.startswith("Error") and not raw_text.startswith("Unsupported"):
             # Chunk into segments
             words = raw_text.split()
             for i in range(0, len(words), 200):
                 chunk = " ".join(words[i:i+200])
                 if len(chunk.strip()) > 20:
-                    all_segments.append(chunk)
+                    all_segments.append({
+                        "content": chunk,
+                        "source_file": f.name,
+                        "source_type": source_type
+                    })
     return all_segments
