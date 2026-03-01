@@ -61,9 +61,13 @@ def evaluate_narrative(narrative, context_docs, vae=None, clusterer=None,
         referenced = 0
         for doc in context_docs:
             # Check if key phrases from the document appear in the narrative
-            key_words = doc.split()[:5]  # First 5 words as identifier
-            key_phrase = " ".join(key_words)
-            if any(word.lower() in narrative.lower() for word in key_words if len(word) > 3):
+            # Improved matching: Check for significant overlapping words rather than just the first 5 words
+            doc_words = set(w.lower() for w in doc.split() if len(w) > 4)
+            narrative_words = set(w.lower() for w in narrative.split() if len(w) > 4)
+            
+            # If at least 20% of the significant words from the document appear in the narrative, count it as referenced
+            overlap = len(doc_words.intersection(narrative_words))
+            if len(doc_words) > 0 and (overlap / len(doc_words)) > 0.2:
                 referenced += 1
         
         coverage = referenced / len(context_docs) if context_docs else 0
@@ -96,12 +100,24 @@ def evaluate_narrative(narrative, context_docs, vae=None, clusterer=None,
             "You are a specialized AI Auditor. Return ONLY valid JSON."
         )
 
-        json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
+        json_match = re.search(r'\{.*?\}', response_text, re.DOTALL)
         if json_match:
-            audit = json.loads(json_match.group(0))
-            metrics["faithfulness_score"] = audit.get("score", 0.5)
-            metrics["critique"] = audit.get("critique", "N/A")
+            try:
+                audit = json.loads(json_match.group(0))
+                metrics["faithfulness_score"] = float(audit.get("score", 0.5))
+                metrics["critique"] = audit.get("critique", "N/A")
+            except json.JSONDecodeError:
+                metrics["faithfulness_score"] = 0.5
+                metrics["critique"] = "Failed to parse JSON response."
         else:
+            # Fallback heuristic if the model fails to output valid JSON but outputs a score
+            score_match = re.search(r'score["\']?\s*:\s*(0\.\d+|1\.0|0)', response_text, re.IGNORECASE)
+            if score_match:
+                metrics["faithfulness_score"] = float(score_match.group(1))
+                metrics["critique"] = "Extracted score via fallback regex."
+            else:
+                metrics["faithfulness_score"] = 0.5
+                metrics["critique"] = "Could not parse auditor response."
             metrics["faithfulness_score"] = 0.5
             metrics["critique"] = "Could not parse auditor response."
     except Exception as e:
