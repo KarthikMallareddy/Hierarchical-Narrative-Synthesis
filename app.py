@@ -285,7 +285,7 @@ def main():
 
 
     # ---------------------------------------------------------
-    # TAB 2: Analysis & Report
+    # TAB 2: Analysis & Report (with Self-Correction Loop)
     # ---------------------------------------------------------
     with tab2:
         query = st.text_area("🔎 Enter your analysis query:", height=100,
@@ -297,9 +297,9 @@ def main():
                 return
 
             with st.spinner("Running hierarchical reasoning pipeline..."):
-                from src.synthesis_engine import retrieve_context, generate_narrative
+                from src.synthesis_engine import retrieve_context, generate_narrative_with_self_correction
                 from src.reasoning import HierarchicalReasoner
-                from src.evaluator import evaluate_narrative
+                from src.export import export_to_word
 
                 emb_model = models["embedding_model"]
                 dae = models["dae"]
@@ -334,23 +334,54 @@ def main():
                     if reasoning_result['validation']['conflicts']:
                         st.warning("Conflicts: " + "; ".join(reasoning_result['validation']['conflicts']))
 
-                # Generate Narrative
-                st.write("📝 **Generating Narrative...**")
-                narrative = generate_narrative(
+                # Self-Correcting Narrative Generation
+                st.write("📝 **Generating Narrative with Self-Correction...**")
+                status_area = st.empty()
+                
+                def progress_cb(attempt, msg):
+                    status_area.info(f"🔄 {msg}")
+                
+                sc_result = generate_narrative_with_self_correction(
                     query, context_docs,
-                    reasoning_result['validation']
+                    validation_result=reasoning_result['validation'],
+                    vae=vae, clusterer=clusterer,
+                    user_latent=st.session_state.get("latent_vectors"),
+                    user_embeddings=st.session_state.get("denoised"),
+                    progress_callback=progress_cb
                 )
+                
+                narrative = sc_result["narrative"]
+                eval_metrics = sc_result["eval_metrics"]
+                correction_log = sc_result["correction_log"]
+                
+                # Show final status
+                if sc_result["final_passed"]:
+                    status_area.success(f"✅ Report accepted after {sc_result['attempts']} attempt(s)")
+                else:
+                    status_area.warning(f"⚠️ Best result used after {sc_result['attempts']} attempt(s) (thresholds not fully met)")
+                
+                # Display narrative
                 st.markdown(narrative)
+                
+                # Store for export
+                st.session_state.last_narrative = narrative
+                st.session_state.last_eval_metrics = eval_metrics
+                st.session_state.last_correction_log = correction_log
+                st.session_state.last_query = query
 
-                # Evaluate
+                # Self-Correction Log
+                if len(correction_log) > 1:
+                    with st.expander("🔄 Self-Correction Log"):
+                        for entry in correction_log:
+                            icon = "✅" if entry["passed"] else "❌"
+                            st.write(f"{icon} **Attempt {entry['attempt']}** — "
+                                     f"Faithfulness: `{entry['faithfulness']:.3f}`, "
+                                     f"Coverage: `{entry['coverage']:.3f}`")
+                            if not entry["passed"]:
+                                st.caption(f"Critique: {entry['critique']}")
+
+                # Evaluation Metrics
                 with st.expander("📊 Evaluation Metrics"):
-                    eval_metrics = evaluate_narrative(
-                        narrative, context_docs,
-                        vae=vae, clusterer=clusterer,
-                        user_latent=st.session_state.get("latent_vectors"),
-                        user_embeddings=st.session_state.get("denoised")
-                    )
-                    
                     metric_cols = st.columns(4)
                     with metric_cols[0]:
                         val = eval_metrics.get("vae_confidence", "N/A")
@@ -364,6 +395,28 @@ def main():
                     with metric_cols[3]:
                         val = eval_metrics.get("faithfulness_score", "N/A")
                         st.metric("Faithfulness", f"{val}" if isinstance(val, str) else f"{val:.2f}")
+        
+        # Export Button (always visible if a report exists)
+        if "last_narrative" in st.session_state:
+            st.divider()
+            st.subheader("📥 Export Report")
+            
+            from src.export import export_to_word
+            
+            word_buffer = export_to_word(
+                narrative=st.session_state.last_narrative,
+                eval_metrics=st.session_state.get("last_eval_metrics"),
+                query=st.session_state.get("last_query"),
+                correction_log=st.session_state.get("last_correction_log")
+            )
+            
+            st.download_button(
+                label="📄 Download Word Report (.docx)",
+                data=word_buffer,
+                file_name="hierarchical_narrative_report.docx",
+                mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                use_container_width=True
+            )
 
     # ---------------------------------------------------------
     # TAB 3: Latent Space Explorer
